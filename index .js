@@ -16,7 +16,7 @@ restService.post('/echo', function(req, res) {
     return res.json({
         speech: speech,
         displayText: speech,
-        source: 'Webhook_chatbo
+        source: 'Webhook_Chat
     });
 });
 
