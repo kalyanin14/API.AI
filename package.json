@@ -1,5 +1,5 @@
 {
-  "name": "echo-sample",
+  "name": "Webhook_Chat",
   "version": "1.0.0",
   "description": "API.AI echo sample",
   "main": "index.js",
