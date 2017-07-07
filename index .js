@@ -16,7 +16,7 @@ restService.post('/echo', function(req, res) {
     return res.json({
         speech: speech,
         displayText: speech,
-        source: 'Webhook_chatbot'
+        source: 'Webhook_chatbo
     });
 });
 
@@ -67,7 +67,7 @@ restService.post('/slack-test', function(req, res) {
     return res.json({
         speech: "speech",
         displayText: "speech",
-        source: 'Webhook_chatbot',
+        source: 'Webhook_Chat',
         data: {
             "slack": slack_message
         }
